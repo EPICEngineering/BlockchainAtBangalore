@@ -5,3 +5,4 @@
 - https://ieeexplore.ieee.org/document/8548070
 - https://github.com/hyperledger/caliper/issues/322
 
+### What is the location of the endorsing policy configuration ?
