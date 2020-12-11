@@ -1,2 +1,5 @@
-What is the difference between Paxos, Multi-Paxos and Raft Consensus ?
+### What is the difference between Paxos, Multi-Paxos and Raft Consensus ?
+
+### What is the benefit of having more than one endoerser peer in Hyperledger Fabric ?
+- https://ieeexplore.ieee.org/document/8548070
 
