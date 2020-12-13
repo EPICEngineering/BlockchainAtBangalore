@@ -7,9 +7,14 @@
 
 ### What is the location of the endorsing policy configuration ?
 
+### How do we configure endoresemnt policies from multiple endoersers ?
+- https://github.com/hyperledger/caliper/issues/322
+- https://jira.hyperledger.org/browse/FAB-9446
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/endorsement-policies.html
+
 
 ### What are the different types of system chain codes in Hyperledger Fabric ?
 - https://medium.com/coinmonks/system-chaincodes-in-hyperledger-fabric-vscc-escc-lscc-cscc-a48db4d24dc3
 
 ## Can we use Kafka witout ZooKeeper ?
-- 
+- Yes. In the recent enhancements
