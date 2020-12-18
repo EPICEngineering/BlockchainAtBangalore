@@ -5,3 +5,6 @@
 - Report on the highlights of Advanced Messsage Queuing Protocol 
 - Report on the differene between Corda Vault Database and Hyperledger World State Database
 - Report on the difference locking mechanisms in relational databases
+- What is the use of Issuance Transactions with Zero Inputs in Corda
+- Report on the difference between Fungible and Non Fungible Assets 
+- Report on ACID Properties in Databases 
