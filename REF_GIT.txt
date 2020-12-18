@@ -5,3 +5,5 @@
 
 ## Origins of Actor Model
 - https://en.wikipedia.org/wiki/Actor_model
+- https://akka.io/
+- https://www.infoq.com/articles/Building-Reactive-Applications-with-Akka/
