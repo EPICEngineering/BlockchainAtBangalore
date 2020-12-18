@@ -2,3 +2,6 @@
 - Report on the difference in UTXO in Bitcoin and Corda
 - Report on the relevance of threads in the Corda Flow Framework
 - Report on the Difference between PAXOS, Multi PAXOS and RAFT
+- Report on the highlights of Advanced Messsage Queuing Protocol 
+- Report on the differene between Corda Vault Database and Hyperledger World State Database
+- Report on the difference locking mechanisms in relational databases
